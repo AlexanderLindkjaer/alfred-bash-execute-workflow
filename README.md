@@ -1,7 +1,7 @@
 # Alfred Bash Execute Workflow
-An Alfred workflow for easy search and execution of bash scripts in Iterm2.
+An [Alfred](https://www.alfredapp.com/) workflow for easy search and execution of bash scripts in Iterm2.
 
-Just [download](https://github.com/zenorocha/alfred-workflows/raw/master/domainr/domainr.alfredworkflow)
+Just [download](https://github.com/AlexanderLindkjaer/alfred-bash-execute-workflow/raw/master/BashExecute.alfredworkflow)
  and open in Alfred.
 
 <img width="1000" alt="caffeinate" src="https://raw.githubusercontent.com/AlexanderLindkjaer/alfred-bash-execute-workflow/master/screenshot.png">
