@@ -12,4 +12,4 @@ Trigger the workflow with the keyword ``bash`` followed by the file you are sear
 Hit enter and it will open Iterm2, cd to the path and execute the script.
 
 ## Note
-This workflow uses [Iterm2](https://iterm2.com/) instead of the default mac terminal. Make a issue/PR if you need support for normal terminal.
+This workflow uses [Iterm2](https://iterm2.com/) instead of the default mac terminal. Make an issue/PR if you need support for normal terminal.
